@@ -1,0 +1,12 @@
+# Power BI temporary files
+*.pbix
+!dashboard/*.pbix
+*.abf
+*.pbit
+
+# Windows system files
+Thumbs.db
+Desktop.ini
+
+# Excel temporary files
+~$*.xlsx
